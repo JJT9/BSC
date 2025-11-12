@@ -1,0 +1,5 @@
+{
+  "name": "Balanced Scorecard Python Generator",
+  "description": "An application to help small and medium-sized enterprises (SMEs) define their Balanced Scorecard and generate a Python script to manage it using the Gemini API.",
+  "requestFramePermissions": []
+}
